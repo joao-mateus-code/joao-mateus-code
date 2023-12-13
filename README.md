@@ -22,28 +22,28 @@ Let's code, innovate, and create remarkable digital experiences together!
 Here's a glimpse of my wizardry in the coding realm:
 
 **Languages**:
-  *  • C#,
-  *  • Javascript,
-  *  • Typescript,
-  *  • CSS,
-  *  • HTML,
-  *  • Java
+  * C#,
+  * Javascript,
+  * Typescript,
+  * CSS,
+  * HTML,
+  * Java
   
 **Development**: 
-  • AngularJS, 
-  • ReactJS, 
-  • Laravel, 
-  • ASP.NET Core, 
-  • C# Windows Forms
-  • AutoMapper
+  * AngularJS, 
+  * ReactJS, 
+  * Laravel, 
+  * ASP.NET Core, 
+  * C# Windows Forms
+  * AutoMapper
   
 **Database**: 
-  • MySQL, 
-  • PostgresSQL
+  * MySQL, 
+  * PostgresSQL
   
 **Version Control**: 
-  • Git, 
-  • TortoiseSVN
+  * Git, 
+  * TortoiseSVN
   
 **Other Tools**: VSCode, Visual Studio, Docker
 
