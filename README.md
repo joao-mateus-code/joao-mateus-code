@@ -21,13 +21,13 @@ Let's code, innovate, and create remarkable digital experiences together!
 
 Here's a glimpse of my wizardry in the coding realm:
 
-•**Languages**:
-  • C#, 
-  • Javascript, 
-  • Typescript, 
-  • CSS, 
-  • HTML, 
-  • Java
+**Languages**:
+  *  • C#,
+  *  • Javascript,
+  *  • Typescript,
+  *  • CSS,
+  *  • HTML,
+  *  • Java
   
 **Development**: 
   • AngularJS, 
